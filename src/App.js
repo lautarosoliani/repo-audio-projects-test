@@ -1,10 +1,9 @@
 import './App.css'
+import HeaderBar from './Components/aHeaderBar/HeaderBar'
 
 function App () {
   return (
-    <h2 className='App'>
-      Hola desde App
-    </h2>
+    <HeaderBar />
   )
 }
 
