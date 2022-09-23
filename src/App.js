@@ -2,8 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <h2 className="App">
+      Hola desde App
+    </h2>
   );
 }
 
