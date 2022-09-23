@@ -1,7 +1,6 @@
 import './App.css'
-/* eslint-disable */
 
-function App() {
+function App () {
   return (
     <h2 className='App'>
       Hola desde App
